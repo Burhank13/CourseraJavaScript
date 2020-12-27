@@ -1,0 +1,52 @@
+body{
+    background-color: #00197c ;
+}
+.navbar {
+    background-color: #f9f800 ;
+    border-radius: 0;
+    border: 0
+}
+.navbar-brand h1 {
+    color: #000000;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 2px 3px 2px rgb(26, 25, 34);
+    line-height: .75;
+}
+.navbar-brand {
+    padding-top: 5px;
+}
+ul{
+    text-align:center;
+    font-size:1.3em;
+    color: #dcff7d
+}
+#collapsable-nav{
+    background-color: rgb(40, 18, 236);
+    position: relative;
+    margin-inline: -6vw;
+    margin-bottom: -1.4vw;
+}
+li{
+    border :1px solid #000000;
+}
+#title{
+    font-size: 200%;
+    color: aqua;
+}
+#content{
+    background-color: #f9f800;
+    padding:0px 15px;
+}
+
+.container-fluid{
+    margin: 0;
+    padding:0;
+}
+#content p {
+    
+}
+.navbar-toggle{
+    background-color: #f9f800;
+    border:0;
+}
